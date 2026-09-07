@@ -1,7 +1,3 @@
-  # YOUR PROJECT TITLE
-    #### Video Demo:https://youtu.be/RJRo_vbeVQE?si=y2K8AWuIhw3pMwpb
-    #### Description:
-
 # Daily Dispatch
 
 Daily Dispatch is a personal Python terminal application that helps me keep track of tasks, priorities, due dates, and progress. It stores tasks locally in a JSON file and provides a daily dispatch, an upcoming-task section, and a progress summary. It also includes a small butler cat that reacts to the user's workload and progress.
